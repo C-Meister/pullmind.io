@@ -13,12 +13,11 @@
 *.userprefs
 
 # Build results
+pullmind-vs2017/x64
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
 [Rr]eleases/
-x64/
-x86/
 bld/
 [Bb]in/
 [Oo]bj/
