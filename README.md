@@ -1,6 +1,10 @@
 # pullmind.io
-[PullMind 게임](https://github.com/C-Meister/PullMind) 리메이크 프로젝트
 ![](https://github.com/C-Meister/PullMind/blob/master/image/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C2.JPG)  
+[PullMind 게임](https://github.com/C-Meister/PullMind) 리메이크 프로젝트
+
+## 개발일지
+### [1~2일차](https://github.com/C-Meister/pullmind.io/blob/master/develoment/1-2.md)
+### [3일차](https://github.com/C-Meister/pullmind.io/blob/master/develoment/3.md)
 
 ## 개발 계기
 - 해커톤에서 개발을 했던 전략줄다리기 게임을 기반으로 개발
