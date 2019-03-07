@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node index.js",
+    "start:web": "nodoe index.js --web"
+  },
+  "dependencies": {
+    "ws": "^6.1.4"
+  }
+}
