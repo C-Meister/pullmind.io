@@ -7,6 +7,7 @@
 ### [3일차](https://github.com/C-Meister/pullmind.io/blob/master/develoment/3.md)
 ### [4일차](https://github.com/C-Meister/pullmind.io/blob/master/develoment/4.md)
 ### [5일차](https://github.com/C-Meister/pullmind.io/blob/master/develoment/5.md)
+### [6~7일차](https://github.com/C-Meister/pullmind.io/blob/master/develoment/6-7.md)
 
 ## 개발 계기
 - 해커톤에서 개발을 했던 전략줄다리기 게임을 기반으로 개발
@@ -16,6 +17,7 @@
 ## 개발일정  
 - 시작일 2019-03-04 
 - 게임 기획 2019-03-05 ~
+- CZZANG 라이브러리 만들기 2019-04-08 ~ 2019-05-02(예정)
 
 ## 팀원
 [장민석](https://github.com/msjang4), [서상희](https://github.com/tbvjaos510), [신상호](https://github.com/ShinSH0), [배수한](https://github.com/SoohanBae)  
