@@ -8,7 +8,7 @@
 ### [4일차](https://github.com/C-Meister/pullmind.io/blob/master/develoment/4.md)
 ### [5일차](https://github.com/C-Meister/pullmind.io/blob/master/develoment/5.md)
 ### [6~7일차](https://github.com/C-Meister/pullmind.io/blob/master/develoment/6-7.md)
-### [8일차](https://github.com/C-Meister/pullmind.io/blob/master/develoment/8.md)
+### [8~9일차](https://github.com/C-Meister/pullmind.io/blob/master/develoment/8-9.md)
 
 ## 개발 계기
 - 해커톤에서 개발을 했던 전략줄다리기 게임을 기반으로 개발
